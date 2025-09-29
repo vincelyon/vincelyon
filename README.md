@@ -1,6 +1,6 @@
 # 👨‍💻 Vincent Lyondo
 
-I am a **results-driven Software Developer** with a strong academic foundation and hands-on experience in **full-stack web and mobile application development**. I hold a **Bachelor of Science in Computer Science** from *DMI St. Eugene University* (2024) and specialize in delivering **secure, scalable, and user-friendly software solutions**.
+I am a **results-driven Software Developer** with a strong academic foundation and hands-on experience in **full-stack web and mobile application development**. I hold a **Bachelor of Science in Computer Science** from *DMI St. Eugene University* (2025) and specialize in delivering **secure, scalable, and user-friendly software solutions**.
 
 ---
 
